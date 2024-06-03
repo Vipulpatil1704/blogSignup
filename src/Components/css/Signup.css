@@ -1,0 +1,8 @@
+.required::after{
+    content: "*";
+    color:red;
+}
+.terms{
+    display: inline-block;
+    vertical-align:middle;
+}
